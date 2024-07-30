@@ -1,4 +1,4 @@
---Blox Fruit Gui2
+-- Fruit Gui2
 getgenv().SettingTheme = {
     Tab = {
         Left_Color = Color3.fromRGB(203 ,156, 255),
@@ -35,19 +35,19 @@ local Hub = {
         [1] = "http://skyhubking.xyz/script/free_script/SKYHUB/uit.lua",
    },
       [4442272183] = {
-        [1] = "http://skyhubking.xyz/script/free_script/SKYHUB/BloxFruit.lua",
+        [1] = "http://skyhubking.xyz/script/free_script/SKYHUB/Fruit.lua",
    },
       [6110371797] = {
         [1] = "http://skyhubking.xyz/script/free_script/SKYHUB/ProjectNewWorld.lua",
    }, 
       [6688650002] = {
-	[1] = "http://skyhubking.xyz/script/free_script/SKYHUB/RojutsuBlox.lua"
+	[1] = "http://skyhubking.xyz/script/free_script/SKYHUB/Rojutsu.lua"
    },
       [3400631762] = {
-	[1] = "http://skyhubking.xyz/script/free_script/SKYHUB/JoJoBlox.lua"
+	[1] = "http://skyhubking.xyz/script/free_script/SKYHUB/JoJo.lua"
    },
       [4313854107] = {
-	[1] = "http://skyhubking.xyz/script/free_script/SKYHUB/JoJoBlox.lua"
+	[1] = "http://skyhubking.xyz/script/free_script/SKYHUB/JoJo.lua"
    },
       [4587545091] = {
 	[1] = "http://skyhubking.xyz/script/free_script/SKYHUB/VietNamPiece.lua"
