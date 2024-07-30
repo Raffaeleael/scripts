@@ -32,7 +32,7 @@ local Hub = {
         [1] = "http://skyhubking.xyz/script/free_script/SKYHUB/BokuNo.lua",
    },
      [2753915549] = {
-        [1] = "http://skyhubking.xyz/script/free_script/SKYHUB/BloxFruit.lua",
+        [1] = "http://skyhubking.xyz/script/free_script/SKYHUB/uit.lua",
    },
       [4442272183] = {
         [1] = "http://skyhubking.xyz/script/free_script/SKYHUB/BloxFruit.lua",
